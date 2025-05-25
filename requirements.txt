@@ -1,0 +1,15 @@
+torch==2.4.1
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+scikit_learn==1.3.2
+pytorch-msssim
+torchinfo
+ptflops
+easydict==1.13
+easytorch==3.8.5
+geopy==2.4.1
+scipy
+setproctitle==1.3.4
+tqdm==4.67.1
+ipdb
