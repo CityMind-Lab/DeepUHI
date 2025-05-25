@@ -41,6 +41,7 @@ To access the dataset for experiments, download it from:
 
 After downloading, place the data in the `./dataset` directory.
 
+
 ## Quick Start
 To train and test the model, run:
 ```bash
@@ -62,6 +63,13 @@ If you use this code or dataset, please cite our paper:
   year={2025}
 }
 ```
+
+## Acknowledgments
+
+We gratefully acknowledge the Seoul City Government for initiating the S-Dot (Seoul Data of Things) project, which provided the invaluable raw temperature data used in the SeoulTemp dataset. The development of this dataset has greatly benefited from the "S-Dot" and Seoul's IoT city data platform.
+
+The SeoulTemp dataset and the SDot data platform are openly available for use by universities, research institutions, and individuals for non-commercial purposes, such as academic research and publications. Please note that this dataset is a product of personal research and does not represent the official position of the Seoul City Government.
+
 
 ## Contact
 For questions or collaborations, please contact: [xczou@connect.hku.hk]
