@@ -38,7 +38,6 @@ We collect and introduce \textit{SeoulTemp}, the first fine-grained urban temper
 
 To access the dataset for experiments, download it from:
 - [Google Drive](https://drive.google.com/drive/folders/1IGivCmou4YJkHMkz9g_XjGCjbMkDXfx1?usp=sharing)
-- [Anonymous Github Repo](https://github.com/SeoulTempAnonymous/anonymous)
 
 After downloading, place the data in the `./dataset` directory.
 
