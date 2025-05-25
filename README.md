@@ -6,6 +6,8 @@ This repository provides the official PyTorch implementation of our paper:
 
 **"Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework"**
 
+[![DOI](https://zenodo.org/badge/989924594.svg)](https://doi.org/10.5281/zenodo.15510072)
+
 ## Overview
 DeepUHI is a data-driven context-aware thermodynamic modeling framework designed to forecast urban heat island (UHI) effects at a fine spatial and temporal granularity. Our approach leverages deep learning and domain knowledge to provide accurate, interpretable predictions for urban climate research and policy-making.
 
