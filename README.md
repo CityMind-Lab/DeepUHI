@@ -66,9 +66,12 @@ If you use this code or dataset, please cite our paper:
 
 ## Acknowledgments
 
-We gratefully acknowledge the Seoul City Government for initiating the S-Dot (Seoul Data of Things) project, which provided the invaluable raw temperature data used in the SeoulTemp dataset. The development of this dataset has greatly benefited from the "S-Dot" and Seoul's IoT city data platform.
 
-The SeoulTemp dataset and the SDot data platform are openly available for use by universities, research institutions, and individuals for non-commercial purposes, such as academic research and publications. Please note that this dataset is a product of personal research and does not represent the official position of the Seoul City Government.
+> We thank the Seoul City Government for the S-Dot (Seoul Data of Things) project and the provision of raw temperature data via the S-Dot and Seoul's IoT city data platform.  
+>  
+> The SeoulTemp dataset and SDot data platform are freely available for non-commercial academic use.  
+>  
+> _Disclaimer: This dataset is a personal research product and does not represent the official position of the Seoul City Government._
 
 
 ## Contact
