@@ -7,13 +7,14 @@ This repository provides the official PyTorch implementation of our paper:
 **"Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework"**
 
 ## Overview
-DeepUHI is a context-aware thermodynamic modeling framework designed to forecast urban heat island (UHI) effects at a fine spatial and temporal granularity. Our approach leverages deep learning and domain knowledge to provide accurate, interpretable predictions for urban climate research and policy-making.
+DeepUHI is a data-driven context-aware thermodynamic modeling framework designed to forecast urban heat island (UHI) effects at a fine spatial and temporal granularity. Our approach leverages deep learning and domain knowledge to provide accurate, interpretable predictions for urban climate research and policy-making.
 
 ## Features
+![DeepUHI intro.](images/intro_2.pdf "DeepUHI")
 - Fine-grained UHI forecasting using deep neural networks
 - Context-aware thermodynamic modeling
-- Supports the publicly available SeoulTemp dataset
-- Easy-to-use training and evaluation scripts
+- Decomposition of urban thermal mechanics within the modeling design
+- Efficency and interpretablity
 
 ## Requirements
 - Python >= 3.8
@@ -72,6 +73,7 @@ If you use this code or dataset, please cite our paper:
 > The SeoulTemp dataset and SDot data platform are freely available for non-commercial academic use.  
 >  
 > _Disclaimer: This dataset is a personal research product and does not represent the official position of the Seoul City Government._
+
 
 
 ## Contact
