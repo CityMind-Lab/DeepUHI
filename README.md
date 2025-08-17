@@ -2,7 +2,7 @@
 
 # DeepUHI: Fine-grained Urban Heat Island Effect Forecasting
 
-This repository provides the official PyTorch implementation of our paper:
+This repository provides the official PyTorch implementation of our paper in KDD 2025 Research Track:
 
 **"Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework"**
 
@@ -58,10 +58,11 @@ An offline demo of the SeoulUHI system is available at: [SeoUHI Web Platform](ht
 ## Citation
 If you use this code or dataset, please cite our paper:
 ```
-@inproceedings{DeepUHI2025,
+@inproceedings{zou2025fine,
   title={Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework},
-  author={Xingchen Zou, Weilin Ruan, Siru Zhong, Yuehong Hu, & Yuxuan Liang},
-  booktitle={Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  author={Zou, Xingchen and Ruan, Weilin and Zhong, Siru and Hu, Yuehong and Liang, Yuxuan},
+  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
+  pages={4226--4237},
   year={2025}
 }
 ```
