@@ -6,6 +6,8 @@ This repository provides the official PyTorch implementation of our paper in KDD
 
 **"Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework"**
 
+[![Paper](https://upload.wikimedia.org/wikipedia/commons/7/7a/ArXiv_logo_2022.png)](https://www.researchgate.net/publication/394261332_Fine-grained_Urban_Heat_Island_Effect_Forecasting_A_Context-aware_Thermodynamic_Modeling_Framework)
+
 [![DOI](https://zenodo.org/badge/989924594.svg)](https://doi.org/10.5281/zenodo.15510072)
 
 ## Overview
